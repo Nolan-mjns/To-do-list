@@ -1,0 +1,54 @@
+.modal {
+    position: absolute;
+    width: 30%;
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+
+    height: fit-content;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    box-shadow: 0 0 0 50vmax rgba(0,0,0,.5);
+}
+
+.modal p{
+    font-size:20px;
+}
+
+.opciones{
+    display: flex;
+    justify-content: space-around;
+    margin-top:30px;
+}
+
+.opcion{
+    width: auto;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    cursor:pointer;
+    font-weight:500;
+}
+
+#agree{
+    background-color: #8EF779;
+}
+
+#agree:hover{
+    background-color: #5EA450 !important; /*Don't know why here I had to use "!important"*/
+}
+
+#disagree {
+    background-color: #EA4D62;
+}
+
+#disagree:hover{
+    background-color:#C0203F
+}

@@ -1,0 +1,54 @@
+.header {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#newTask{
+    padding:10px;
+    border-radius:15px 0px 0px 15px;
+    font-size:20px;
+    width:75%;
+    border: 1px solid gainsboro;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#newTask:focus{
+    outline:none;
+}
+
+#addTask{
+  
+    font-size:20px;
+    padding:10px;
+    border-radius:0px 15px 15px 0px;
+    outline: none;
+    border:1px solid #de1c61;
+    background-color:#de1c61;
+    color:white;
+    width:15%;
+    transition: 0.3s;
+}
+
+#addTask:hover{
+    cursor:pointer;
+    transition: 0.3s;
+    background-color:#711147;
+}
+
+#action{
+    display:block;
+    text-align:left;
+    padding-left:5.5%;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size:24px;
+}
+
+.inputs{
+    text-align:center;
+}
