@@ -1,8 +1,8 @@
-# React + Vite
+# Simple To do List practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was a functionality practice using arrays, objects, localhost, react, vite, etc.
+The system is not responsive because it was more focused on practice functionality.
 
-Currently, two official plugins are available:
+- [DEMO HERE](https://timely-lamington-f38315.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I still practicing and improving, I hope this code can help you in something, any feedback is very welcome.
